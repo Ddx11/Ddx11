@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ddx11
 - 👀 I’m interested in Minecraft Modding and Software development
-- 🌱 I’m currently learning Java, Json and Forge
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: https://discord.gg/Te7c3maSEj
 
 <!---
